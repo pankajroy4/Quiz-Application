@@ -1,0 +1,228 @@
+# depslib dependency file v1.0
+1661965760 source:e:\quiz_application\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"conio2.h"
+	"quiz.h"
+	<dir.h>
+	<errno.h>
+
+1386340778 e:\quiz_application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1660938371 e:\quiz_application\quiz.h
+	<cstring>
+	<string>
+
+1661967383 source:e:\quiz_application\quiz.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<string>
+	<fstream>
+	"conio2.h"
+	"quiz.h"
+
+1386420876 source:e:\quiz_application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386420876 source:e:\quiz appliction copy\quiz_application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\quiz appliction copy\quiz_application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1660745695 source:e:\quiz appliction copy\quiz_application\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	"conio2.h"
+	"quiz.h"
+
+1660746804 e:\quiz appliction copy\quiz_application\quiz.h
+	<string.h>
+	<string>
+
+1660761899 source:e:\quiz appliction copy\quiz_application\quiz.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<string>
+	<fstream>
+	"conio2.h"
+	"quiz.h"
+
+1386420876 source:e:\quiz_appcopy 2\quiz_application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\quiz_appcopy 2\quiz_application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1660831925 source:e:\quiz_appcopy 2\quiz_application\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	"conio2.h"
+	"quiz.h"
+
+1660831401 e:\quiz_appcopy 2\quiz_application\quiz.h
+	<string.h>
+	<string>
+
+1660841762 source:e:\quiz_appcopy 2\quiz_application\quiz.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<string>
+	<fstream>
+	"conio2.h"
+	"quiz.h"
+
+1386420876 source:e:\for editing ptoject quiz app\quiz_application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\for editing ptoject quiz app\quiz_application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1660929966 source:e:\for editing ptoject quiz app\quiz_application\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"conio2.h"
+	"quiz.h"
+
+1660938371 e:\for editing ptoject quiz app\quiz_application\quiz.h
+	<cstring>
+	<string>
+
+1660941626 source:e:\for editing ptoject quiz app\quiz_application\quiz.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<string>
+	<fstream>
+	"conio2.h"
+	"quiz.h"
+
+1660934695 source:e:\for editing ptoject quiz app\quiz_application\abc.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1661910611 source:e:\quiz_application\icon.rc
+
+1386420876 source:f:\quiz_application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 f:\quiz_application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661910611 source:f:\quiz_application\icon.rc
+
+1661199852 source:f:\quiz_application\quiz.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<string>
+	<fstream>
+	"conio2.h"
+	"quiz.h"
+
+1660938371 f:\quiz_application\quiz.h
+	<cstring>
+	<string>
+
+1661965760 source:f:\quiz_application\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"conio2.h"
+	"quiz.h"
+	<dir.h>
+	<errno.h>
+
+1386420876 source:e:\quiz_application final\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\quiz_application final\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661910611 source:e:\quiz_application final\icon.rc
+
+1661973743 source:e:\quiz_application final\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"conio2.h"
+	"quiz.h"
+	<dir.h>
+	<errno.h>
+
+1661982084 e:\quiz_application final\quiz.h
+	<cstring>
+	<string>
+
+1663351822 source:e:\quiz_application final\quiz.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<string>
+	<fstream>
+	"conio2.h"
+	"quiz.h"
+
